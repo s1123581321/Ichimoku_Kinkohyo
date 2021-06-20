@@ -228,7 +228,7 @@ The output looks like;
 1.12231 1.12234 1.12221 1.12194 1.12187 1.12181 
 
 
-The section of the original data file that corresponds to this output in this example is;
+The section of the original data file that corresponds to the output in this example is;
 
 20200101 200900;1.122100;1.122110;1.122060;1.122060;0
 20200101 201000;1.122060;1.122080;1.122050;1.122050;0
