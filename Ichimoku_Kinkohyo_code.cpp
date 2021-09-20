@@ -8,7 +8,6 @@ IEEE 2014
 
 See my PDF file titled "Ichimoku Kinkohyo Theory" in the repository for the theory used for this code.
 
-For questions and comments, you can contact me by messaging my reddit account: s1123581321
 */
 
 #include <iostream>
